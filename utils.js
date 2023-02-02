@@ -1,5 +1,5 @@
 const GRAVITY = 9.8;
-var time = 25;
+var time = 60;
 
 function gravity(vel){
     return vel + GRAVITY * 0.1;
